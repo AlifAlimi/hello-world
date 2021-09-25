@@ -1,0 +1,13 @@
+apa yang saya buat (Primary site) :
+   - 1 vpc, 6 subnets (3 public, 3 private - each 3 different AZ)
+
+   - dari segi subnet count, ko letak paramater utk env: prod/dr
+
+   - kalau prod ada 6 subnets (3 pub, 3 priv)
+
+   - kalau dr 4 subnets (2 pub, 2 priv)
+​
+   - buat 1 cft je utk both prod n dr
+​
+   - guna condition utk bezakan apa yg akan di deploy
+
